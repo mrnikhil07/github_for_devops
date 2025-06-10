@@ -1,6 +1,8 @@
-    #history of git command 
 
- 
+# i'm just practice the git and github and i push the code via vscode terminal.
+
+#history of git command 
+
       git status
       git commit -m
       git commit -m testing.py
