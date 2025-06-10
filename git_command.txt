@@ -1,0 +1,26 @@
+    #history of git command 
+
+ 
+      git status
+      git commit -m
+      git commit -m testing.py
+      git config --
+      git statu
+      git status
+      git add testing.py
+      git status
+      git rm --cached testing.py
+      git status
+      git add testing.py
+      git status
+      git add.
+      git add .
+      git status
+      git commit -m "added testing file"
+      git config --global user.email "nikhilkolam... 
+      git config --global user.name "mrnikhil07"   
+      git status
+     ls
+     ll
+     ls
+     git status
